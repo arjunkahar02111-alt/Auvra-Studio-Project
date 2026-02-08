@@ -190,7 +190,7 @@ export const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) =>
           </div>
           
           <div className="pt-8 border-t border-zinc-900 flex flex-col md:flex-row justify-between items-center text-xs text-zinc-600">
-            <p>&copy; 2024 Auvra.Studio. All rights reserved.</p>
+            <p>&copy; 2026 Auvra.Studio. All rights reserved.</p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="hover:text-zinc-400">Privacy Policy</a>
               <a href="#" className="hover:text-zinc-400">Terms of Service</a>
