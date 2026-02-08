@@ -226,7 +226,7 @@ export const MainLayout: React.FC<{ children: React.ReactNode }> = ({ children }
           </div>
           
           <div className="pt-10 md:pt-12 border-t border-white/5 flex flex-col md:flex-row justify-between items-center text-[8px] md:text-[10px] uppercase tracking-[0.2em] font-bold text-zinc-600">
-            <p>&copy; 2024 Auvra.Studio &bull; Precision Engineered</p>
+            <p>&copy; 2026 Auvra.Studio &bull; Precision Engineered</p>
             <div className="flex space-x-8 md:space-x-12 mt-6 md:mt-0">
               <a href="#" className="hover:text-white transition-colors">Privacy</a>
               <a href="#" className="hover:text-white transition-colors">Terms</a>
